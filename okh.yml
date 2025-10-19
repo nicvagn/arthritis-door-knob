@@ -1,3 +1,31 @@
-# This file is to be an Open Know-How manifest in compliance with the Open Know-How Specification. (2022). Internet of Production Alliance. Retrieved from https://standards.internetofproduction.org/pub/okh
-# Visit https://okh.makernet.org/form to generate the OKH manifest. 
-
+title: arthritis-door-knob
+description: " A doorknob that does not require grasping. People who suffer from athritis
+  can have a difficult time using traditional door knobs, this is an attempt to
+  improve that. "
+intended-use: To make opening door knobs easier for folks who have difficulty.
+project-link: https://github.com/nicvagn/arthritis-door-knob
+made: true
+made-independently: false
+license:
+  hardware: CERN-OHL-P-2.0
+  documentation: MIT
+licensor:
+  name: Nicolas "the Zugzwang" Vaagen
+  affiliation: maker
+  email: nicolavaagen@gmail.com
+okh-manifest-version: 1.0.0
+date-created: 2025-10-09
+date-updated: 2025-10-19
+manifest-author:
+  name: Nicolas Vaagen
+  affiliation: maker
+  email: nicolasvaagen@gmail.com
+manifest-language: en-CA
+contact:
+  name: Nicolas Vaagen
+  affiliation: maker
+  email: nicolasvaagen@gmail.com
+version: "0.1"
+development-stage: prototype
+documentation-home: https://github.com/nicvagn/arthritis-door-knob
+documentation-language: en-CA
