@@ -9,7 +9,7 @@ This template has a number of fields that can be searched and replaced with othe
  - <Device_Name> Replace this with filename-friendly version of the device with underscores. e.g., Open_Wobble_Switch
  - <DeviceName> Replace this with the human-readable name of the device with spaces. e.g., Open Wobble Switch
  - Nicolas Vaagen Replace this with the person or organization responsible for the design. e.g., John Doe.
- - <Repository_Link> Replace this with the web address for the repository. e.g., (e.g., https://github.com/makersmakingchange/Open-Wobble-Switch))
+ - https: Replace this with the web address for the repository. e.g., (e.g., https://github.com/makersmakingchange/Open-Wobble-Switch))
  - <MMCWebLink> This is the website address including an alphanumeric id for the Makers Making Change Website. e.g., 01tJR000000698oYAA. This will come from MMC staff.
  - <MaterialCost> Replace this with the dollar cost and currency (CAD, USD, etc.) of the materials of the device.
  - <ShippingCost> Replace this with the dollar cost and currency (CAD, USD, etc.) of shipping the device (if possible).
@@ -112,7 +112,7 @@ You may redistribute and modify this documentation and make products using it un
 This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
 Please see the CERN-OHL-W v2 for applicable conditions.
 
-Source Location: <Repository_Link>
+Source Location: https://github.com/nicvagn/arthritis-door-knob
 
 ## Attribution
 <!--- Provide any necessary attribution for designs or components that are included in the device or as part of the project. --->
