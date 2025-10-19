@@ -7,10 +7,10 @@ project-link: https://github.com/nicvagn/arthritis-door-knob
 made: true
 made-independently: false
 license:
-  hardware: CERN-OHL-P-2.0
-  documentation: MIT
+  hardware: CERN-OHL-W-2.0
+  documentation: BY-SA 4.0
 licensor:
-  name: Nicolas "the Zugzwang" Vaagen
+  name: Nicolas Vaagen
   affiliation: maker
   email: nicolavaagen@gmail.com
 okh-manifest-version: 1.0.0
