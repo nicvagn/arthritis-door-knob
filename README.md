@@ -25,9 +25,9 @@ Any text that is currently holding a space / is an instruction for the person fi
 
 ## Overview
 <!--- A brief summary of the project. What it does, who it is for, how much it costs. --->
-The arthritis door knob is an assistive technology device that <INSERT DESCRIPTION FROM THE OUTLINE OF The DEVICE>.
+The arthritis door knob makes door knobs easier to open for thouse who have dificulty grasping. It attaches to an existing round door knob.
 
-<MODIFY LINE AS NECESSARY> The device is comprised of off-the-shelf electronics and 3D printed parts.
+The device is comprised of off-the-shelf adhesive strips and 3D printed parts.
 
 The arthritis door knob is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
 
@@ -54,6 +54,7 @@ If you have the skills and equipment to build this device, and would like to don
 
 ## Build Instructions
 <!--- Outline the major steps required to create a build --->
+Print the outer door knob extension. Then attach the device to your doorknob. 3M temporary addhesive pads have been tested. Alien tape would most likely work well: [Alien Tape](https://www.alientape.ca/)
 
 ### 1. Read through the Maker Guide
 
