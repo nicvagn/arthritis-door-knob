@@ -6,7 +6,7 @@
 This document includes helper text that will not be displayed when rendered. Any text between the less-than sign + exclamation mark + three hyphen-minus (<!---) and matching three hyphen-minus + greater-than sign will not be displayed. This helper text can be deleted once the corresponding section is completed.
 
 This template has a number of fields that can be searched and replaced with other text:
- - <Device_Name> Replace this with filename-friendly version of the device with underscores. e.g., Open_Wobble_Switch
+ - arthritis_door_knob Replace this with filename-friendly version of the device with underscores. e.g., Open_Wobble_Switch
  - <DeviceName> Replace this with the human-readable name of the device with spaces. e.g., Open Wobble Switch
  - Nicolas Vaagen Replace this with the person or organization responsible for the design. e.g., John Doe.
  - <Repository_Link> Replace this with the web address for the repository. e.g., (e.g., https://github.com/makersmakingchange/Open-Wobble-Switch))
@@ -31,7 +31,9 @@ The device is comprised of off-the-shelf adhesive strips and 3D printed parts.
 
 The arthritis door knob is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
 
-The overall cost of materials is about $<MaterialCost> (plus $<ShippingCost> for component shipping).
+The overall cost of materials is about $20 (plus $10 for component shipping).
+
+The cost comes from buying the double sided adhesive.
 
 <img src="Photos/arthritis-door-knob.jpg" width="500" alt="Picture of arthritis door knob.">
 
@@ -54,16 +56,18 @@ If you have the skills and equipment to build this device, and would like to don
 
 ## Build Instructions
 <!--- Outline the major steps required to create a build --->
-Print the outer door knob extension. Then attach the device to your doorknob. 3M temporary addhesive pads have been tested. Alien tape would most likely work well: [Alien Tape](https://www.alientape.ca/)
+The device itself is just a PLA print. Print the outer door knob extension.
+Then attach the device to your doorknob. 3M temporary addhesive pads have been tested. Alien tape would most likely work well: [Alien Tape](https://www.alientape.ca/)
+
 
 ### 1. Read through the Maker Guide
 
-The [Maker Guide](/Documentation/<Device_Name>_Maker_Guide.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
+The [Maker Guide](/Documentation/arthritis_door_knob_Maker_Guide.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
 
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/<Device_Name>_BOM.xlsx) lists all of the parts and components required to build the device.
+The [Bill of Materials](/Documentation/arthritis_door_knob_BOM.xlsx) lists all of the parts and components required to build the device.
 
 
 ### 3. Print the 3D Printable components
@@ -72,7 +76,7 @@ All of the files and individual print files can be found in the [/Build_Files/3D
 
 ### 4. Assemble the arthritis door knob
 
-Reference the Assembly Guide section of the [Maker Guide](/Documentation/<Device_Name>_Maker_Guide.pdf) for the tools and steps required to build the device.
+Reference the Assembly Guide section of the [Maker Guide](/Documentation/arthritis_door_knob_Maker_Guide.pdf) for the tools and steps required to build the device.
 
 ## How to improve this Device
 As open source assistive technology, you are welcomed and encouraged to improve upon the design.
@@ -82,10 +86,10 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 <!--- Update the name, link, and version for documentation --->
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [<Device_Name>_Design_Rationale](/Documentation/<Device_Name>_Design_Rationale.pdf)     |
-| Maker Guide          | 1.0     | [<Device_Name>_Maker_Guide](/Documentation/<Device_Name>_Maker_Guide.pdf)     |
-| Bill of Materials    | 1.0     | [<Device_Name>_Bill_of_Materials](/Documentation/<Device_Name>_BOM.xlsx)     |
-| User Guide           | 1.0     | [<Device_Name>_User_Guide](/Documentation/<Device_Name>_User_Guide.pdf)    |
+| Design Rationale     | 1.0     | [arthritis_door_knob_Design_Rationale](/Documentation/arthritis_door_knob_Design_Rationale.pdf)     |
+| Maker Guide          | 1.0     | [arthritis_door_knob_Maker_Guide](/Documentation/arthritis_door_knob_Maker_Guide.pdf)     |
+| Bill of Materials    | 1.0     | [arthritis_door_knob_Bill_of_Materials](/Documentation/arthritis_door_knob_BOM.xlsx)     |
+| User Guide           | 1.0     | [arthritis_door_knob_User_Guide](/Documentation/arthritis_door_knob_User_Guide.pdf)    |
 | Changelog            | 1.0     | [Changelog](CHANGES.txt)     |
 
 ### Design Files
@@ -96,9 +100,6 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 ### Build Files
 <!--- Include a copy of the build files intended for manufacturing. This may include svg files for laser cutting, stl files for 3d printing, Gerber files for custom PCBs, and Arduino files for custom firmware. --->
  - [3D Printing Files](/Build_Files/3D_Printing_Files)
- - [PCB Build Files](/Build_Files/PCB_Build_Files)
- - [Firmware Files](/Build/Firmware_Files)
-
 
 ## License
 <!--- Add the year(s) for the copyright and the Designer Name. You may use the standard set of open licenses or choose your own for the hardware, software, and accompanying materials. --->
@@ -125,9 +126,8 @@ The documentation template was created by Makers Making Change / Neil Squire Soc
 ### Contributors
 <!--- List the names of the people that contributed to the design. This could include the original source of the idea, designers, testers, documenters, etc. --->
 Designers:
-
+NA
 Testers:
-
 
 ---
 <!--- This is standard boilerplate for Makers Making Change. No changes should be required. --->
