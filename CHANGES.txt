@@ -1,6 +1,10 @@
 Version X.Y.Z | YYYY-mmm-DD
  - Initial Prototype
- - <SUMMARIZE KEY FEATURES>
+ - Very large and easy to open. Unwealdy to attach
+
+Version 1.0 | 2025-10-22
+- fits on door nop better.
+- Moved to openSCAD for modling
 
 
 
