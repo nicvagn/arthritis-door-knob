@@ -76,7 +76,7 @@ All of the files and individual print files can be found in the [/Build_Files/3D
 
 ### 4. Assemble the arthritis door knob
 
-Reference the Assembly Guide section of the [Maker Guide](/Documentation/arthritis_door_knob_Maker_Guide.pdf) for the tools and steps required to build the device.
+NA: the device does not merit them
 
 ## How to improve this Device
 As open source assistive technology, you are welcomed and encouraged to improve upon the design.
@@ -86,16 +86,15 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 <!--- Update the name, link, and version for documentation --->
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [arthritis_door_knob_Design_Rationale](/Documentation/arthritis_door_knob_Design_Rationale.pdf)     |
-| Maker Guide          | 1.0     | [arthritis_door_knob_Maker_Guide](/Documentation/arthritis_door_knob_Maker_Guide.pdf)     |
+| Design Rationale     | 1.0     | [arthritis_door_knob_Design_Rationale](/Documentation/arthritis_door_knob_Summary.md)     |
+| Maker Guide          | 1.0     | [arthritis_door_knob_Maker_Guide](/Documentation/arthritis_door_knob_Summary.md)     |
 | Bill of Materials    | 1.0     | [arthritis_door_knob_Bill_of_Materials](/Documentation/arthritis_door_knob_BOM.xlsx)     |
-| User Guide           | 1.0     | [arthritis_door_knob_User_Guide](/Documentation/arthritis_door_knob_User_Guide.pdf)    |
 | Changelog            | 1.0     | [Changelog](CHANGES.txt)     |
 
 ### Design Files
 <!--- Include a copy of the original design files to facilitate easy editing and customization. Consider also including a generic format (e.g., STEP) --->
  - [CAD Files](/Design_Files/CAD_Design_Files)
- - [PCB Files](/Design_Files/PCB_Design_Files)
+ - [SCAD Files](Design_Files/SCAD_FILES/)
 
 ### Build Files
 <!--- Include a copy of the build files intended for manufacturing. This may include svg files for laser cutting, stl files for 3d printing, Gerber files for custom PCBs, and Arduino files for custom firmware. --->
@@ -128,6 +127,7 @@ The documentation template was created by Makers Making Change / Neil Squire Soc
 Designers:
 NA
 Testers:
+Mavis Werschner
 
 ---
 <!--- This is standard boilerplate for Makers Making Change. No changes should be required. --->
