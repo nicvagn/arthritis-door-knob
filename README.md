@@ -35,7 +35,7 @@ The overall cost of materials is about $20 (plus $10 for component shipping).
 
 The cost comes from buying the double sided adhesive.
 
-<img src="Photos/arthritis-door-knob.jpg" width="500" alt="Picture of arthritis door knob.">
+<img src="Photos/arthritis-door-knob.png" width="500" alt="Picture of arthritis door knob.">
 
 ## Makers Making Change Assistive Device Library
 <MMCWebLink>
@@ -88,7 +88,7 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 |----------------------|---------|------|
 | Design Rationale     | 1.0     | [arthritis_door_knob_Design_Rationale](/Documentation/arthritis_door_knob_Summary.md)     |
 | Maker Guide          | 1.0     | [arthritis_door_knob_Maker_Guide](/Documentation/arthritis_door_knob_Summary.md)     |
-| Bill of Materials    | 1.0     | [arthritis_door_knob_Bill_of_Materials](/Documentation/arthritis_door_knob_BOM.xlsx)     |
+| Bill of Materials    | 1.0     | [arthritis_door_knob_Bill_of_Materials](/Documentation/arthritis_door_knob_BOM.csv)     |
 | Changelog            | 1.0     | [Changelog](CHANGES.txt)     |
 
 ### Design Files
