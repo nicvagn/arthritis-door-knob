@@ -57,17 +57,17 @@ If you have the skills and equipment to build this device, and would like to don
 ## Build Instructions
 <!--- Outline the major steps required to create a build --->
 The device itself is just a PLA print. Print the outer door knob extension.
-Then attach the device to your doorknob. 3M temporary addhesive pads have been tested. Alien tape would most likely work well: [Alien Tape](https://www.alientape.ca/)
+Then attach the device to your doorknob. Alien tape works well: [Alien Tape](https://www.alientape.ca/)
 
 
 ### 1. Read through the Maker Guide
 
-The [Maker Guide](/Documentation/arthritis_door_knob_Maker_Guide.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
+The [Maker Guide](https://github.com/nicvagn/arthritis-door-knob/blob/main/Documentation/arthritis_door_knob_Summary.md)  contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
 
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/arthritis_door_knob_BOM.xlsx) lists all of the parts and components required to build the device.
+The [Bill of Materials](/Documentation/arthritis_door_knob_BOM.csv) lists all of the parts and components required to build the device.
 
 
 ### 3. Print the 3D Printable components
