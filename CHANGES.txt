@@ -4,9 +4,7 @@ Version X.Y.Z | YYYY-mmm-DD
 
 Version 1.0 | 2025-10-22
 - fits on door nop better.
-- Moved to openSCAD for modling
+- Moved to openSCAD for modding
 
-
-
-
-
+Version 1.1 | 2025-03-19
+- rounded hard edges on door knob
