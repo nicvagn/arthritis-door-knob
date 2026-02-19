@@ -9,7 +9,7 @@ grip_count = 12;       // number of grips
 grip_radius = 2.9;     // base radius of each grip
 grip_height = 20;//25;       // length sticking out
 grip_angle = -15;       // tilt angle in degree
-grip_Z_translate = 11.5;
+grip_Z_translate = 13;
 
 module hollow_sphere() {
     difference() {
